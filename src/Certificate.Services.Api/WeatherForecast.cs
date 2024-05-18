@@ -1,4 +1,4 @@
-namespace Certificates.Services.Api
+namespace Certificate.Services.Api
 {
     public class WeatherForecast
     {

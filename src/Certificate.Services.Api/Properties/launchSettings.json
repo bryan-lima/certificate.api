@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Certificates.Services.Api": {
+    "Certificate.Services.Api": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

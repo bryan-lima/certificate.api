@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Services", "01 - Servi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.1 - Host", "01.1 - Host", "{FD269E43-AE79-4585-B408-2821451C4801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificates.Services.Api", "src\Certificates.Services.Api\Certificates.Services.Api.csproj", "{95F12B6D-B6BE-4CF4-8D3E-D5492307CD26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificate.Services.Api", "src\Certificate.Services.Api\Certificate.Services.Api.csproj", "{95F12B6D-B6BE-4CF4-8D3E-D5492307CD26}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Application", "02 - Application", "{C58E847F-D26E-4BC0-BB14-FA3F7A44DEB3}"
 EndProject
@@ -19,15 +19,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.1 - Data", "04.1 - Data"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.2 - CrosCutting", "04.2 - CrosCutting", "{288CD6B9-7981-4005-9F39-A21EE0D87E68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificates.Application", "src\Certificates.Application\Certificates.Application.csproj", "{7360C143-E37C-4FBE-8ED4-1A50597D741B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".Application", "src\Certificate.Application\Certificate.Application.csproj", "{7360C143-E37C-4FBE-8ED4-1A50597D741B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificates.Infra.Data", "src\Certificates.Infra.Data\Certificates.Infra.Data.csproj", "{FDCE0845-5680-4298-A98C-33DF2CE9D054}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificate.Infra.Data", "src\Certificate.Infra.Data\Certificate.Infra.Data.csproj", "{FDCE0845-5680-4298-A98C-33DF2CE9D054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificates.Domain", "src\Certificates.Domain\Certificates.Domain.csproj", "{FE7E07A5-8A2D-480B-BB27-0277DB7C47A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificate.Domain", "src\Certificate.Domain\Certificate.Domain.csproj", "{FE7E07A5-8A2D-480B-BB27-0277DB7C47A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificates.Domain.Core", "src\Certificates.Domain.Core\Certificates.Domain.Core.csproj", "{1516F571-6826-4242-87AB-488A00FF52FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificate.Domain.Core", "src\Certificate.Domain.Core\Certificate.Domain.Core.csproj", "{1516F571-6826-4242-87AB-488A00FF52FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificates.Infra.CrossCutting.IoC", "src\Certificates.Infra.CrossCutting.IoC\Certificates.Infra.CrossCutting.IoC.csproj", "{B8F3D746-C964-453E-883E-8B4612701D40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certificate.Infra.CrossCutting.IoC", "src\Certificate.Infra.CrossCutting.IoC\Certificate.Infra.CrossCutting.IoC.csproj", "{B8F3D746-C964-453E-883E-8B4612701D40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

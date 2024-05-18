@@ -1,4 +1,4 @@
-﻿namespace Certificates.Infra.Data
+namespace Certificate.Application
 {
     public class Class1
     {
