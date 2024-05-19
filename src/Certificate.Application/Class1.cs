@@ -1,4 +1,4 @@
-namespace Certificate.Application
+﻿namespace Certificate.Application
 {
     public class Class1
     {

@@ -1,4 +1,4 @@
-namespace Certificate.Domain
+﻿namespace Certificate.Domain
 {
     public class Class1
     {
